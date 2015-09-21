@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-463c334697dede179916e301945d68b7fa9698bb.jar" />
+    </item>
+    <item
+        jar="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f958cff6198f222923ef646cbc17a7f38935c2b">
+        <dex dex="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-686ef3f76dfbe4ebb28f146c8073e272bb8a8fc8.jar" />
+    </item>
+    <item
+        jar="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-5a4dc922aa3e7fb48384d0929bb92b98a64b8056.jar" />
+    </item>
+    <item
+        jar="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-26c6b749ddc04ee9a9fe380e4fe789aa07b8533b.jar" />
+    </item>
+    <item
+        jar="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes-26c13c7e6f50a1e78fb02c636cf42d304968cba3.jar" />
+    </item>
+    <item
+        jar="/Users/Rashida/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Rashida/Downloads/BluetoothChat/Application/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-8a7a56a37c7b04c4c60358bf69074f32c54216cf.jar" />
+    </item>
+
+</items>
